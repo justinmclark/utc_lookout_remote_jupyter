@@ -27,3 +27,4 @@ Run a headless version of Jupyter Lab instance. This will expose Jupyter on port
 
 ```local> ssh -N -f -L localhost:8888:localhost:9000 <user>@lookout00``` (again, could be lookout01, 02, 03)
 
+Now, just open up `localhost:8888` in your browser and you'll have have a Jupyter Notebook running from the lookout servers.
