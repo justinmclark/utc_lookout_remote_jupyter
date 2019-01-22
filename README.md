@@ -3,7 +3,7 @@
 2. Learn a little bit about managing environments with Anaconda.
 
 # Instructions
-Connect to Tunnelblick VPN so `ssh` works.
+Connect to GlobalProtectVPN so `ssh` works.
 
 ```local> ssh <user>@lookout00``` (could be lookout01, 02, 03 as well)
 
