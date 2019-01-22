@@ -1,8 +1,10 @@
-# First things first
+# This remote Jupyter Notebook tutorial was meant for Users at the SimCenter at UTC, but this should work on any remote Linux server.
+
+## First things first
 1. Get a user account with Ethan and set up a VPN so you can ssh onto the server remotely.
 2. Learn a little bit about managing environments with Anaconda.
 
-# Instructions
+## Instructions
 Connect to GlobalProtectVPN so `ssh` works.
 
 ```local> ssh <user>@lookout00``` (could be lookout01, 02, 03 as well)
