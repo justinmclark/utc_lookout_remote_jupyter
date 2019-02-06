@@ -23,7 +23,7 @@ Set a password for your personal Jupyter usage (make it a good but memorable one
 
 ```(env_name) lookout> jupyter notebook password```
 
-Run a headless version of Jupyter Lab instance. This will expose Jupyter on port 9000 of the lookout instance you're `ssh`ed into.
+Run a headless version of Jupyter Notebook instance. This will expose Jupyter on port 9000 of the lookout instance you're `ssh`ed into.
 
 ```(env_name) lookout> jupyter notebook --port=9000 --no-browser &```
 
